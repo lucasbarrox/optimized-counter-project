@@ -1,0 +1,14 @@
+# Dependencies
+/node_modules
+
+# Logs and cache
+npm-debug.log*
+.DS_Store
+
+# Environment variables (for future use)
+.env
+.env.local
+
+# Build outputs (for future use)
+/dist
+/build
